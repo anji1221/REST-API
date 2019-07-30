@@ -4,3 +4,10 @@ DesChannel
 Shiipto
 SoldTO
 Payer
+Items
+{
+ItemNo
+Name 
+material
+Char
+}
